@@ -6,11 +6,13 @@ The **Ausmena Kebabs Website** is a web-based system that allows customers to:
 - Browse menu items
 - Place food orders online
 - Simulate checkout and payment
-- Generate receipts
+- Download receipts
 
-It also includes:
-- An **Employee Portal** for shift management and holiday requests
-- A **Manager Dashboard** to assign shifts and upload pay slips
+It will also includes:
+- Real Payement System
+- Order history
+- Admin Dashboard
+- Also, it will be integrated to restaurant's software so that order from website will be redirected to their system.
 
 This project aims to eliminate third-party dependencies (like food delivery platforms) and improve internal restaurant operations.
 
