@@ -1,4 +1,4 @@
-# 🍽️ Ausmena Kebabs Website Enhancement
+# 🍽️ Ausmena Kebabs Website 
 
 ## ✔️ Project Summary
 
